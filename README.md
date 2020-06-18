@@ -1,2 +1,2 @@
-# django_development_docker
-Configuration files for developing django inside a docker container using vscode.
+### Django Configuration Files
+Configuration files to be used for development using docker and vscode.
